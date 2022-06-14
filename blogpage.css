@@ -321,6 +321,9 @@ height: 24px;
 margin: 567px 853px auto 489px;
 }
 
+.fsan_img3:hover{
+  background-image:url(img/za_hover.png);
+}
 .ppt_p1{
   position: absolute;
 width: 298px;
@@ -400,6 +403,10 @@ height: 24px;
 width: 24px;
 height: 24px;
 margin: 1078px 853px auto 489px;
+}
+
+.ppt_img3:hover{
+  background-image:url(img/za_hover.png);
 }
 
 .nqt_p1{
@@ -483,6 +490,10 @@ height: 24px;
 margin: 1079px 533px auto 809px;
 }
 
+.nqt_img3:hover{
+  background-image:url(img/za_hover.png);
+}
+
 .aas_p1{
   position: absolute;
 width: 298px;
@@ -562,6 +573,10 @@ height: 24px;
 width: 24px;
 height: 24px;
 margin: 1078px 213px auto 1129px;
+}
+
+.aas_img3:hover{
+  background-image:url(img/za_hover.png);
 }
 
 .sapa{
@@ -694,6 +709,10 @@ height: 24px;
 margin: 1489px 533px auto 809px;
 }
 
+.mei_img3:hover{
+  background-image:url(img/za_hover.png);
+}
+
 .fae_img1{
   position: absolute;
 width: 300px;
@@ -775,6 +794,9 @@ height: 24px;
 margin: 1721px 533px auto 809px;
 }
 
+.fae_img3:hover{
+  background-image:url(img/za_hover.png);
+}
 
 .spp_img1{
   position: absolute;
@@ -857,6 +879,9 @@ height: 24px;
 margin: 1953px 533px auto 809px;
 }
 
+.spp_img3:hover{
+  background-image:url(img/za_hover.png);
+}
 
 .cfm_img1{
   position: absolute;
@@ -939,6 +964,9 @@ height: 24px;
 margin: 2185px 533px auto 809px;
 }
 
+.cfm_img3:hover{
+  background-image:url(img/za_hover.png);
+}
 
 .ama_img1{
   position: absolute;
@@ -1021,6 +1049,10 @@ height: 24px;
 margin: 2417px 533px auto 809px;
 }
 
+.ama_img3:hover{
+  background-image:url(img/za_hover.png);
+}
+
 .arr_l{
   position: absolute;
 width: 18px;
@@ -1045,6 +1077,7 @@ color: #356EAD;
 
 .new_post:hover{
   font-weight: bold;
+  cursor: pointer;
 }
 
 .arr_r{
@@ -1073,6 +1106,7 @@ color: #356EAD;
 
 .old_post:hover{
   font-weight: bold;
+  cursor: pointer;
 }
 
 .bb_bg{
